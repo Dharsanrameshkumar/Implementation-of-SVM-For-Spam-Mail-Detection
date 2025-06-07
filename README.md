@@ -26,8 +26,6 @@ RegisterNumber:  212223100003
 ```
 <br>
 
-
-
 ```
 import pandas as pd
 data=pd.read_csv("spam.csv", encoding='Windows-1252')
@@ -71,16 +69,6 @@ print(cl)
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
@@ -121,20 +109,6 @@ print(cl)
 ### cl (classification report)
 ![328857416-c1a9e002-dc90-4f21-bb0d-daf799640c92](https://github.com/gauthamkrishna7/Implementation-of-SVM-For-Spam-Mail-Detection/assets/141175025/93d05231-8e93-4866-9d05-30f66368ce71)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
